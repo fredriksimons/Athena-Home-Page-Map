@@ -2,7 +2,7 @@ function initMap() {
     // Initialize the map
     const map = new google.maps.Map(document.getElementById('map'), {
         center: { lat: 51.9058, lng: -2.0796 }, // Coordinates for Francis Close Hall Campus, Cheltenham
-        zoom: 17,  // Zoom level set to 17
+        zoom: 16,  // Zoom level set to 17
         mapId: '9c30f2b062cb57db' // Your new Map ID
     });
 
